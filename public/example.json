@@ -1,0 +1,247 @@
+[
+    {
+      "_id": "5f35a4d1b78945a9b6f4cd3a",
+      "productName": " Green Tea Face Wash",
+      "category": "facewash",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/One_Spring_Green_Tea_Facial_Cleanser_Ref-One_Spring-49ac4-375464.png",
+      "price": 900,
+      "quantity": 45,
+      "description": "Innisfree Green Tea Face Wash is enriched with natural green tea extracts from Jeju Island, offering deep hydration and gentle cleansing for your skin.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "3f1bb9d6acfd4267bda2c2fe",
+      "productName": " Water Sleeping Mask",
+      "category": "night cream",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Isntree_Hyaluronic_Acid_Water_Sleeping_M-Non_Brand-6abb4-448532.png",
+      "price": 1200,
+      "quantity": 25,
+      "description": "Laneige Water Sleeping Mask is a popular Korean night cream that deeply hydrates and rejuvenates your skin overnight, leaving it plump and fresh in the morning.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "a9131b4c7dbd4b28b3f9087c",
+      "productName": "Soosul Acne Cleanser",
+      "category": "acne cleanser",
+      "image": "https://cdn05.zipify.com/omBvCVN31ZAy3AJiECaQ6XVsNt8=/fit-in/540x0/ebc97cf0f1e74cc5b4de4e0dacbb6cef/toner02.png",
+      "price": 650,
+      "quantity": 40,
+      "description": "Soosul Acne Cleanser uses a unique formula designed to treat acne, reduce excess oil, and cleanse the skin thoroughly with herbal ingredients.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+
+
+
+    {
+      "_id": "f8a2bd3d91b84d18b1c1c40f",
+      "productName": "Cicapair Tiger cream",
+      "category": "night cream",
+      "image": "https://skinsort.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXNCRGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ccf9fc87d70fdb7c2a61208fa189f79757ae8cb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0M2QU5wQXVnRE9ncHpZWFpsY25zR09neHhkV0ZzYVhSNWFVcz0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--de5ec8f4d87208741dc6d32ada91b5aaba79d3a6/out.png",
+      "price": 1500,
+      "quantity": 30,
+      "description": "Dr. Jart+ Cicapair Tiger Grass Cream is an intensive night cream that helps heal and repair skin, especially for sensitive skin, with its soothing properties.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "6d47b72c0ff84b3f9e4bbed2",
+      "productName": "Sulwhasoo Cleansing Foam",
+      "category": "facewash",
+      "image": "https://luxiface.com/cdn/shop/files/Sulwhasoo-Gentle-Cleansing-Foam-200ml_400x.png?v=1734788162",
+      "price": 1300,
+      "quantity": 50,
+      "description": "Sulwhasoo Gentle Cleansing Foam is a premium Korean facewash that gently cleanses and removes makeup while keeping the skin moisturized.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "12fd96aef26346c9b28546a1",
+      "productName": "Moistfull Collagen Cream",
+      "category": "night cream",
+      "image": "https://lh5.googleusercontent.com/proxy/tuSlV9epAcFqpLHkxUHQw7SnY4LmDu8itzh510vvACsefEeZO-49n_wwHZDev3hm3TO40HI6jxWgAkBm62E0ifWwrMLSJ1QlMzM-AcOHcYjK6-JxCOkhU00ftZbS9uPbADnaRBCZ0YGo",
+      "price": 800,
+      "quantity": 35,
+      "description": "Etude House Moistfull Collagen Cream is a hydrating night cream that helps improve skin elasticity and provides long-lasting moisture.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "93b5d22f3b69447b8e7f9ab8",
+      "productName": "Jeju Clay Mask",
+      "category": "facewash",
+      "image": "https://www.innisfree.com/my/en/resources/upload/product/13002_l.png",
+      "price": 1100,
+      "quantity": 60,
+      "description": "Innisfree Jeju Volcanic Pore Clay Mask is a facial mask designed to remove deep impurities, minimize pores, and leave your skin refreshed.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "d5e2b56cfa864a56b7129cb7",
+      "productName": "Missha Time Essence",
+      "category": "night cream",
+      "image": "https://beautybarn.in/wp-content/uploads/2021/04/Missha-Time-Revolution-Artemisia-Treatment-Essence.png",
+      "price": 950,
+      "quantity": 55,
+      "description": "Missha Time Revolution Essence is an anti-aging essence that brightens and evens out skin tone while improving skin elasticity.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "4a9df8ba63b24b469f8c8d1b",
+      "productName": "Skinfood Black Mask",
+      "category": "acne cleanser",
+      "image": "https://www.theglowclubnz.com/cdn/shop/files/IMG-0284.png?v=1728656477",
+      "price": 700,
+      "quantity": 40,
+      "description": "Skinfood Black Sugar Mask Wash Off is a popular scrub that exfoliates and brightens skin while leaving it smooth and radiant.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "f84e71a03ec542fd9e6e78a1",
+      "productName": "Ceramidin Cream",
+      "category": "night cream",
+      "image": "https://cdn-ilagbml.nitrocdn.com/VYYudLEEjUgBTXUnfyyXlXHalVVWEphy/assets/images/optimized/rev-cbd9f14/iama-pharmacy.gr/wp-content/uploads/2023/10/8809642713390-500x500.png",
+      "price": 1400,
+      "quantity": 20,
+      "description": "Dr. Jart+ Ceramidin Cream is a rich and hydrating night cream that helps restore and strengthen the skin's moisture barrier.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+
+
+    
+    {
+      "_id": "2a0d6b7e8b374d6a928e1c72",
+      "productName": "Tony Moly The Chok Chok Green Tea Watery Cream",
+      "category": "night cream",
+      "image": "https://halazoon.myshopify.com/cdn/shop/files/IMG-8681.webp?v=1693326335",
+      "price": 850,
+      "quantity": 40,
+      "description": "Tony Moly The Chok Chok Green Tea Watery Cream is a hydrating cream made from green tea extract that provides deep moisture and smooth skin.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "c1b3270c92f14cc7b8b0a2f3",
+      "productName": " Hydrating Mask",
+      "category": "facewash",
+      "image": "https://www.mediheal.com/upload/product/MDH_km01025_th.png",
+      "price": 700,
+      "quantity": 60,
+      "description": "Mediheal N.M.F Intensive Hydrating Mask provides intense hydration and nourishment, leaving your skin feeling refreshed and smooth.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "908a1dbb6f9b4a3a8c4e698f",
+      "productName": "Banila Co Clean It Zero Cleansing Balm",
+      "category": "acne cleanser",
+      "image": "https://banilausa.com/cdn/shop/files/nourishing_311c106c-e50b-4996-9b58-8b0b4277e3ed.png?v=1723666242&width=1946",
+      "price": 1200,
+      "quantity": 25,
+      "description": "Banila Co Clean It Zero Cleansing Balm is a balm-to-oil cleanser that gently removes makeup, dirt, and impurities while keeping your skin hydrated.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "2fcae13a820743a88957c810",
+      "productName": "Cosrx Advanced Snail 96 Mucin Power Essence",
+      "category": "night cream",
+      "image": "https://kbazar24.com/wp-content/uploads/2021/09/advanced-snail-96-mucin-power-essence-1.png",
+      "price": 950,
+      "quantity": 40,
+      "description": "Cosrx Snail Mucin Essence is a unique essence that helps regenerate skin, improve elasticity, and fade blemishes.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "f48fba3709ff4ae48f6a31f3",
+      "productName": "Klavuu Pure Pearl Serum",
+      "category": "night cream",
+      "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/80851/a5c25e7c-5651-4772-ae17-a6069784c8c2-klavuu-white-pearlsation-special-divine-pearl-serum-antiidade-33ml.png",
+      "price": 1300,
+      "quantity": 50,
+      "description": "Klavuu Pure Pearlsation Divine Pearl Serum is designed to brighten and hydrate the skin while providing a luxurious feel.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "97d0a4a4b5824096b62732fb",
+      "productName": "Tiam My Signature C Source",
+      "category": "night cream",
+      "image": "https://makeupworld.pk/cdn/shop/products/TIAM-My-Signature-C-Source-30ml_600x.png?v=1577506659",
+      "price": 850,
+      "quantity": 30,
+      "description": "Tiam My Signature C Source is a vitamin C serum that helps brighten the skin, reduce dark spots, and improve overall skin tone.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    },
+    {
+      "_id": "b287bdc7c1794f66a358fb3b",
+      "productName": "Neogen Real Fresh Green Tea Cleansing Stick",
+      "category": "facewash",
+      "image": "https://example.com/images/neogen-green-tea-cleansing-stick.png",
+      "price": 700,
+      "quantity": 45,
+      "description": "Neogen Real Fresh Green Tea Cleansing Stick is a unique cleansing stick with real green tea leaves that helps to refresh and cleanse the skin.",
+      "seller": {
+        "name": "mithun",
+        "image": "https://i.ibb.co/0jS7X33/pro.jpg",
+        "email": "imran66@gmail.com"
+      }
+    }
+  ]
+  

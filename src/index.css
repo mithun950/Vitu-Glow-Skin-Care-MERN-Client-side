@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+ body {
+  background-color: #022402;
+  min-height: 100vh;
+}
+
+  
