@@ -11,11 +11,12 @@ import useAuth from "../../hooks/useAuth";
 import { FaBangladeshiTakaSign } from "react-icons/fa6";
 import { toast, ToastContainer } from "react-toastify";
 import useAxiosSecure from "../../hooks/useAxiosSecure";
+import { useNavigate } from "react-router-dom";
 
 
 const PurchaseModal = ({ closeModal, isOpen, product,refetch }) => {
     const { _id,productName, category, description, image, seller, quantity, price } =product;
-
+  const navigate = useNavigate()
   const { user } = useAuth();
   const axiosSecure = useAxiosSecure();
   const [totalQuantity,setTotalQuantity] = useState(1)
@@ -45,11 +46,12 @@ const PurchaseModal = ({ closeModal, isOpen, product,refetch }) => {
         await axiosSecure.post('/order',purchaseInfo)
         //decrease quantity from db
         await axiosSecure.patch(`/products/quantity/${_id}`, {
-            quantityToUpdate: totalQuantity
-
+            quantityToUpdate: totalQuantity,
+            status: 'decrease',
             })
         toast.success('Order Successful !')
         refetch()
+        navigate('/dashboard/myOrders')
     }
     catch(err){
         console.log(err)
@@ -126,7 +128,7 @@ setPurchaseInfo(prv => ({
                 </div>
                 <div className="mt-2">
                   <p className="text-sm text-white">
-                    Customer: {user.displayName}
+                    {/* Customer: {user.displayName} */}
                   </p>
                 </div>
 

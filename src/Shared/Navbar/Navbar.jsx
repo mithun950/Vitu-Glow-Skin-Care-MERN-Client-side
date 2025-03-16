@@ -15,8 +15,8 @@ const Navbar = () => {
       <div className="navbar w-11/12 mx-auto">
         <div className=" flex-1 flex items-center gap-2">
           {/* Logo */}
-          <img className="w-12" src="https://png.pngtree.com/png-clipart/20221015/original/pngtree-skincare-logo-png-image_8689417.png" alt="Logo" />
-          <h2>Vita Glow</h2>
+          <img className="w-30 px-6 bg-white rounded-3xl" src="https://images.squarespace-cdn.com/content/v1/66ca8e1e36ab2e3cfbd919eb/0d0e3ed9-ef2c-4cbb-828f-341c6d1248cd/Copy+of+Copy+of+VitaGlow+%28500+x+500+px%29+%28120+x+100+px%29+%28120+x+100+px%29+%28Logo%29-2.png" alt="Logo" />
+          
         </div>
 
         <div className=" flex-none flex items-center gap-4">

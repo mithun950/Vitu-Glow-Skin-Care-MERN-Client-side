@@ -6,7 +6,7 @@ import ProductCards from '../Shared/ProductCards/ProductCards';
 
 const Products = () => {
     const [currentPage, setCurrentPage] = useState(1);
-    const productsPerPage = 8; // প্রতি পেজে ৮টি প্রোডাক্ট
+    const productsPerPage = 8;
 
     const { data: products, isLoading } = useQuery({
         queryKey: ["products"],
